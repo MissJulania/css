@@ -24,3 +24,6 @@ a:link {
 a:visited {
     color: green;
 }
+a:hover {
+    text-decoration: none;
+}
