@@ -9,7 +9,7 @@ p, li {
 li em {
     color: rebeccapurple;
 }
-ul span .special {
+li span .special {
     color: red;
 }
 body h1 + p .special{
