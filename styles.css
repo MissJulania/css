@@ -23,6 +23,7 @@ a:link {
 }
 a:visited {
     color: green;
+    text-decoration: solid;
 }
 a:hover {
     text-decoration: none;
