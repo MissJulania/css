@@ -15,7 +15,7 @@ and also a <a href="http://example.com">link</a>.</p>
     <p>This is the second paragraph. It contains an <em>emphasized</em> element.</p>
 
     <ul>
-        <li>Item <span class:"special">one</span></li>
+        <li>Item <span class="special">one</span></li>
         <li class="special"> Item two</li>
         <li>Item <em>three</em></li>
     </ul>
