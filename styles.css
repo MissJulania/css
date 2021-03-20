@@ -18,6 +18,9 @@ h1 + p {
 p span {
     color: red;
 }
+a {
+    font-weight: bold;
+}
 a:link {
     color: pink;
 }
