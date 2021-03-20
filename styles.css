@@ -14,7 +14,7 @@ body h1 + p .special {
     background-color: black;
     padding: 5px;
 }
-li span .special {
+ul li span .special {
     color: red;
 }
 a {
