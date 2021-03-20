@@ -20,14 +20,14 @@ p span {
 }
 a {
     font-weight: bold;
-    text-decoration: lightcoral;
 }
 a:link {
-    color: pink;
+    color: navy;
+    border-bottom: 1px dashed;
 }
 a:visited {
     color: green;
 }
 a:hover {
-    text-decoration: none;
+    border-bottom: .07em solid;
 }
