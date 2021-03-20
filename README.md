@@ -9,10 +9,10 @@
 <body>
     <h1>I am a level one heading</h1>
 
-    <p>This is a paragraph of text. In the text is a <span>span element</span>
+    <p>This is a paragraph of text. In the text is a <span class="special">span element</span>
 and also a <a href="http://example.com">link</a>.</p>
 
-    <p>This is the second paragraph. It contains an <em>emphasized</em> element.</p>
+    <p>This is the second paragraph. It contains an <span>emphasized</span> element.</p>
 
     <ul>
         <li>Item <span class="special">one</span></li>
