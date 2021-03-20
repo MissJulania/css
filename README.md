@@ -16,7 +16,7 @@ and also a <a href="http://example.com">link</a>.</p>
 
     <ul>
         <li>Item <span>one</span></li>
-        <li>Item two</li>
+        <li class="special"> Item two</li>
         <li>Item <em>three</em></li>
     </ul>
 
