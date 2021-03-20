@@ -23,11 +23,11 @@ a {
 }
 a:link {
     color: navy;
-    border-bottom: 1px dashed;
+    border-bottom: 1px solid blue;
 }
 a:visited {
     color: green;
 }
 a:hover {
-    border-bottom: .07em solid;
+    text-decoration: none;
 }
