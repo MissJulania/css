@@ -9,13 +9,13 @@ p, li {
 li em {
     color: rebeccapurple;
 }
+span .special {
+    color: red;
+}
 body h1 + p .special{
     color: yellow;
     background-color: black;
     padding: 5px;
-}
-p span {
-    color: red;
 }
 a {
     font-weight: bold;
